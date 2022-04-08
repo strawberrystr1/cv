@@ -23,12 +23,12 @@
 }
 
 .logo-wrap {
-  height: 400px;
+  height: 350px;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding-top: 50px;
+  padding-top: 10px;
   width: 35%;
 }
 .logo-wrap p {
@@ -45,8 +45,8 @@
 }
 
 .about {
-  height: 400px;
-  padding: 50px 20px;
+  height: 350px;
+  padding: 10px;
   width: 60%;
 }
 .about h1 {
@@ -68,15 +68,15 @@
 }
 .info .contacts {
   width: 35%;
-  height: 300px;
+  height: 280px;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
-  padding-left: 20px;
+  padding-left: 10px;
 }
 .info .contacts h3 {
   font-size: 30px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 .info .contacts h5 {
   font-size: 20px;
@@ -88,10 +88,10 @@
 }
 .info .skills {
   width: 60%;
-  height: 300px;
+  height: 280px;
   display: flex;
   flex-direction: column;
-  padding: 14px 20px;
+  padding: 10px 20px;
 }
 .info .skills h3 {
   font-size: 30px;
@@ -114,9 +114,9 @@
 .education .language {
   display: flex;
   flex-direction: column;
-  padding: 20px;
+  padding: 10px;
   width: 35%;
-  height: 400px;
+  height: 350px;
 }
 .education .language .lang-wrap {
   margin-top: 15px;
@@ -135,10 +135,10 @@
 }
 .education .educ-block {
   width: 60%;
-  padding: 20px;
+  padding: 10px;
   display: flex;
   flex-direction: column;
-  height: 400px;
+  height: 350px;
   justify-content: space-between;
 }
 .education .educ-block h3 {
@@ -180,10 +180,10 @@
 .experience {
   display: flex;
   justify-content: space-between;
-  height: 180px;
+  height: 140px;
 }
 .experience .exp-right {
-  padding: 20px;
+  padding: 10px;
   flex-direction: column;
   display: flex;
   justify-content: space-between;
@@ -209,7 +209,8 @@
   justify-content: space-between;
 }
 .projects .projects-right {
-  padding: 20px;
+  padding: 10px;
+  padding-bottom: 0;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -223,7 +224,7 @@
   font-size: 18px;
 }
 .projects .projects-right .project-item {
-  height: 90px;
+  height: 85px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
