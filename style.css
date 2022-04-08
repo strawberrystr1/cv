@@ -68,7 +68,7 @@
 }
 .info .contacts {
   width: 35%;
-  height: 250px;
+  height: 300px;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
@@ -88,15 +88,14 @@
 }
 .info .skills {
   width: 60%;
-  height: 250px;
+  height: 300px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   padding: 14px 20px;
 }
 .info .skills h3 {
   font-size: 30px;
-  margin-bottom: 10px;
+  margin-bottom: 25px;
 }
 .info .skills ul {
   display: flex;
